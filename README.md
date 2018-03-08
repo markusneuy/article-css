@@ -19,11 +19,6 @@ A simple styling for articles.
     npm run build
 ```
 
-## Test
-```bash
-  npm test
-```
-
 ## License
   [MIT](LICENSE)
 
